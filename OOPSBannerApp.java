@@ -2,7 +2,7 @@
  * OOPSBannerApp
  * Prints OOPS to the console
  * 
- * @author Srinivas
+ * @author GOUTHAM
  * @version 1.0
  */
 public class OOPSBannerApp {
